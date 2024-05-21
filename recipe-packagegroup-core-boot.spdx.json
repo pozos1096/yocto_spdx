@@ -18,7 +18,7 @@
       "SPDXID": "SPDXRef-Recipe-packagegroup-core-boot",
       "copyrightText": "NOASSERTION",
       "description": "The minimal set of packages required to boot the system",
-      "downloadLocation": "NOASSERTION",
+      "downloadLocation": "https://github.com/pozos1096/yocto_spdx/raw/main/recipe-packagegroup-core-boot.tar.zst",
       "licenseConcluded": "NOASSERTION",
       "licenseDeclared": "MIT",
       "licenseInfoFromFiles": [
